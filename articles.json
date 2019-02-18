@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Article 1",
+        "content": "Mollit dolore reprehenderit occaecat deserunt ut amet occaecat. Officia exercitation occaecat duis anim nisi irure in cupidatat consectetur laboris laborum ullamco. Proident Lorem occaecat cupidatat exercitation cillum est.",
+        "author":"DamienM",
+        "date": "12/03/2018"
+    },
+    {
+        "title": "Article 2",
+        "content": "Mollit dolore reprehenderit occaecat deserunt ut amet occaecat. Officia exercitation occaecat duis anim nisi irure in cupidatat consectetur laboris laborum ullamco. Proident Lorem occaecat cupidatat exercitation cillum est.Tempor ut magna incididunt ea eu. Aute velit mollit Lorem aliqua voluptate mollit cupidatat tempor. Eiusmod esse consequat ea nulla ea ad nisi qui ex ex reprehenderit reprehenderit. Consequat elit proident ut quis sint deserunt sunt esse labore.",
+        "author": "Celine",
+        "date": "12/04/2018"
+    },{
+        "title": "Article 3",
+        "content": "Mollit dolore reprehenderit occaecat deserunt ut amet occaecat. Officia exercitation occaecat duis anim nisi irure in cupidatat consectetur laboris laborum ullamco. Proident Lorem occaecat cupidatat exercitation cillum est.Aliqua minim ullamco in id voluptate est anim quis sint quis aliquip incididunt eiusmod. Ipsum ut incididunt sit sint voluptate fugiat minim adipisicing reprehenderit do elit id. Ea elit occaecat minim laborum aliquip proident tempor Lorem mollit cupidatat mollit ullamco do. Magna sint incididunt enim nulla eu. Voluptate voluptate excepteur in ad amet non duis excepteur sunt fugiat nostrud do aliqua magna.",
+        "author": "DamienC",
+        "date": "12/05/2018"
+    },
+    {
+        "title": "Article 4",
+        "content": "Mollit dolore reprehenderit occaecat deserunt ut amet occaecat. Officia exercitation occaecat duis anim nisi irure in cupidatat consectetur laboris laborum ullamco. Proident Lorem occaecat cupidatat exercitation cillum est.",
+        "author": "James K",
+        "date": "12/06/2018"
+    }
+]
